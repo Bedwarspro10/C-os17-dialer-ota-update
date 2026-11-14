@@ -13,7 +13,7 @@
     "mandatory": false,
     "title": "New Update Available",
     "description": "A new version of the dialer is available.",
-    "apkUrl": "",
+    "apkUrl": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/archive/refs/tags/Apk.zip",
     "apkSize": 0,
     "sha256": "",
     "releaseNotesUrl": "releases/latest.json"
