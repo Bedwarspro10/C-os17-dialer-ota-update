@@ -1,1 +1,25 @@
 
+{
+  "schemaVersion": 1,
+  "app": {
+    "name": "ColorOS 17 Dialer",
+    "packageName": "com.example",
+    "latestVersionCode": 2,
+    "latestVersionName": "1.0.1",
+    "minimumSupportedVersion": 1
+  },
+  "update": {
+    "available": true,
+    "mandatory": false,
+    "title": "New Update Available",
+    "description": "A new version of the dialer is available.",
+    "apkUrl": "",
+    "apkSize": 0,
+    "sha256": "",
+    "releaseNotesUrl": "releases/latest.json"
+  },
+  "security": {
+    "securityUpdateAvailable": false,
+    "securityInfoUrl": "security/security.json"
+  }
+}
