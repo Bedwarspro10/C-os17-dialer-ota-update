@@ -1,0 +1,13 @@
+{
+  "updates": [
+    {
+      "id": "SEC-001",
+      "version": "1.0.1",
+      "date": "",
+      "severity": "low",
+      "title": "Security improvements",
+      "description": "Security-related improvements.",
+      "fixed": true
+    }
+  ]
+}
