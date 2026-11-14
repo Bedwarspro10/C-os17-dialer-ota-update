@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "app": {
     "name": "ColorOS 17 Dialer",
-    "packageName": "com.example",
+    "packageName": "com.aistudio.phonedialer.lmnxqr",
     "latestVersionCode": 2,
     "latestVersionName": "1.0.1",
     "minimumSupportedVersion": 1
