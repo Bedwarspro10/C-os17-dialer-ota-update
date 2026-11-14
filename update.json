@@ -14,8 +14,8 @@
     "title": "New Update Available",
     "description": "A new version of the dialer is available.",
     "apkUrl": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/archive/refs/tags/Apk.zip",
-    "apkSize": 0,
-    "sha256": "",
+    "apkSize": 20mb,
+    "sha256": "9C:94:41:16:2C:0D:37:1A:8F:34:EE:49:C0:16: 92:C4:D2:E4:58:B2:C7:05:07:46:EB:59:B0:35: 67:C9:37:D7",
     "releaseNotesUrl": "releases/latest.json"
   },
   "security": {
