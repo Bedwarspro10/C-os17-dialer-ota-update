@@ -1,0 +1,8 @@
+{
+  "otaEnabled": true,
+  "securityUpdatesEnabled": true,
+  "maintenanceMode": false,
+  "minimumAppVersion": 1,
+  "checkIntervalHours": 24,
+  "allowManualCheck": true
+}
