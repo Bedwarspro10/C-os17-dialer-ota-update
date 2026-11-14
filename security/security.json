@@ -1,1 +1,10 @@
-
+{
+  "schemaVersion": 1,
+  "securityVersion": 1,
+  "securityPatchDate": "",
+  "securityUpdateAvailable": false,
+  "severity": "none",
+  "title": "Security Status",
+  "description": "No new security update available.",
+  "fixes": []
+}
