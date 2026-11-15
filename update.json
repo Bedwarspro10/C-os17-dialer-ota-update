@@ -1,25 +1,178 @@
-
 {
   "schemaVersion": 1,
+
   "app": {
-    "name": "ColorOS 17 Dialer",
-    "packageName": "com.aistudio.phonedialer.lmnxqr",
-    "latestVersionCode": 1,
-    "latestVersionName": "1",
-    "minimumSupportedVersion": 1
+    "name": "Odialer",
+    "company": "RecreateTM",
+    "tagline": "Reimagining the Digital Experience",
+    "packageName": "com.oplus.dialer",
+    "category": "Communication",
+    "platform": "Android",
+    "architecture": "Native Android Application",
+    "description": "Odialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, with refined interface design, smooth interactions, and improved usability."
   },
-  "update": {
-    "available": true,
+
+  "release": {
+    "versionName": "1.0.2",
+    "versionCode": 3,
+    "releaseName": "Odialer 1.0.2",
+    "channel": "stable",
+    "status": "published",
     "mandatory": false,
-    "title": "New Update Available",
-    "description": "A new version of the dialer is available.",
-    "apkUrl": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/archive/refs/tags/Apk.zip",
-    "apkSize": 1318,
-    "sha256": "b16b02b264b6f94143abad9754efaa3f7559bd9f296bf4f7d81652f06777dd0b",
-    "releaseNotesUrl": "releases/latest.json"
+    "enabled": true,
+    "releaseDate": "2026-11-15",
+
+    "whatsNew": [
+      {
+        "category": "Performance",
+        "title": "Smoother Scrolling",
+        "description": "Reduced lag when scrolling through Contacts and Recents."
+      },
+      {
+        "category": "UI Fixes",
+        "title": "Dark Mode Settings Fixed",
+        "description": "Fixed the Dark Mode settings page. It now displays correctly."
+      },
+      {
+        "category": "Security",
+        "title": "Security Improvements",
+        "description": "Improved application security."
+      }
+    ],
+
+    "releaseNotes": [
+      "Reduced lag when scrolling through Contacts or Recents.",
+      "Fixed the Dark Mode settings page. It now looks correct.",
+      "Improved application security."
+    ]
   },
+
+  "engine": {
+    "name": "ColorOS 17 Dialer Experience",
+    "version": "1.0.2",
+    "type": "Android Dialer Application",
+    "interface": {
+      "designLanguage": "ColorOS 17",
+      "darkMode": true,
+      "lightMode": true,
+      "animations": true,
+      "smoothTransitions": true
+    },
+    "modules": {
+      "dialer": {
+        "enabled": true,
+        "description": "Dialer interface and calling experience."
+      },
+      "contacts": {
+        "enabled": true,
+        "description": "Contact browsing and interaction."
+      },
+      "recents": {
+        "enabled": true,
+        "description": "Recent calls interface and browsing."
+      },
+      "settings": {
+        "enabled": true,
+        "description": "Application settings and appearance configuration."
+      },
+      "themeEngine": {
+        "enabled": true,
+        "darkMode": true,
+        "lightMode": true
+      },
+      "animationEngine": {
+        "enabled": true,
+        "description": "Interface transitions and interaction animations."
+      }
+    }
+  },
+
+  "distribution": {
+    "type": "Direct APK Distribution",
+    "format": "APK",
+    "fileName": "ColorOS17Dialer-v1.0.2-release.apk",
+    "downloadPath": "release-apk/ColorOS17Dialer-v1.0.2-release.apk",
+    "downloadProtocol": "HTTPS",
+    "fileSizeBytes": 17855562,
+    "fileSizeFormatted": "17.86 MB"
+  },
+
+  "integrity": {
+    "enabled": true,
+    "algorithm": "SHA-256",
+    "apkChecksum": "2495beb43ec0461834f9c503fb7df888cc1bc8abc5bb7121508dab1f748dc518",
+    "verificationRequired": true,
+    "verifyBeforeInstallation": true,
+    "rejectOnChecksumMismatch": true
+  },
+
+  "signing": {
+    "enabled": true,
+    "signatureType": "APK Signing Certificate",
+    "verifiedWith": "apksigner",
+    "certificate": {
+      "subject": "CN=RecreateTM, OU=Dialer, O=RecreateTM, L=Bengaluru, ST=KA, C=IN",
+      "sha256Digest": "7d9890e784f4934e6290cfa8c851323c89cabff13ee8e41dc888eec912ef7384",
+      "keyType": "release_upload_key",
+      "isDebugCertificate": false,
+      "isReleaseCertificate": true
+    },
+    "certificateVerification": true
+  },
+
   "security": {
-    "securityUpdateAvailable": false,
-    "securityInfoUrl": "security/security.json"
+    "enabled": true,
+    "securityUpdatesEnabled": true,
+    "securityVerification": {
+      "apkHashVerification": true,
+      "certificateVerification": true,
+      "rejectModifiedApk": true,
+      "rejectCorruptedDownload": true
+    },
+    "policies": {
+      "requireValidPackageName": true,
+      "requireValidVersionCode": true,
+      "requireValidApk": true,
+      "requireHttpsDownload": true
+    },
+    "securityInfoUrl": "security/security.json",
+    "securityChangelogUrl": "security/changelog.json",
+    "securityHistoryUrl": "security/history.json"
+  },
+
+  "compatibility": {
+    "platform": "Android",
+    "applicationId": "com.oplus.dialer",
+    "minimumVersionCode": 1,
+    "latestVersionCode": 3,
+    "supportedInstallation": "APK",
+    "updateInstallation": "In-place Update",
+    "signatureConsistencyRequired": true
+  },
+
+  "ota": {
+    "enabled": true,
+    "updateAvailable": true,
+    "automaticUpdateCheck": true,
+    "manualUpdateCheck": true,
+    "downloadProgress": true,
+    "checksumVerification": true,
+    "installationPrompt": true,
+    "preserveApplicationData": true,
+    "deleteIncompleteDownloads": true,
+    "deleteInvalidDownloads": true,
+    "manifestUrl": "update.json"
+  },
+
+  "previousRelease": {
+    "versionName": "1.0.1",
+    "versionCode": 2
+  },
+
+  "developer": {
+    "company": "RecreateTM",
+    "product": "Odialer",
+    "support": "RecreateTM",
+    "releaseChannel": "stable"
   }
 }
