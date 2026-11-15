@@ -20,7 +20,7 @@
     "mandatory": false,
     "title": "Odialer 1.0.2",
     "description": "Reduced lag when scrolling through Contacts or Recents, fixed Dark Mode settings, and improved application security.",
-    "apkUrl": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/releases/download/v1.0.2/ColorOS17Dialer-v1.0.2-release.apk",
+    "apkUrl": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/releases/download/v1.0.2_build3/ColorOS17Dialer-v1.0.2-release.apk",
     "apkSize": 17855562,
     "sha256": "2495beb43ec0461834f9c503fb7df888cc1bc8abc5bb7121508dab1f748dc518",
     "releaseNotesUrl": "releases/latest.json"
