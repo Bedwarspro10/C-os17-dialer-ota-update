@@ -91,7 +91,7 @@
     "type": "Direct APK Distribution",
     "format": "APK",
     "fileName": "ColorOS17Dialer-v1.0.2-release.apk",
-    "downloadPath": "release-apk/ColorOS17Dialer-v1.0.2-release.apk",
+    "downloadPath": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/releases/download/v1.0.2/ColorOS17Dialer-v1.0.2-release.apk",
     "downloadProtocol": "HTTPS",
     "fileSizeBytes": 17855562,
     "fileSizeFormatted": "17.86 MB"
