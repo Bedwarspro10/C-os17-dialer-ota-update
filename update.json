@@ -19,7 +19,7 @@
     "title": "Odialer 5.0.8 \u2014 Major UI Redesign",
     "description": "A major visual redesign bringing the interface much closer to the actual ColorOS Dialer experience, with refined layouts and visual details.",
     "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v5.0.8.apk",
-    "apkSize": 20000,
+    "apkSize": 63910041,
     "sha256": "c707464f84195fc5a61fb344bf744b5106c6778eb48c285eaecade7bd7a4dd9a",
     "releaseNotesUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/latest.json"
   },
@@ -63,7 +63,7 @@
     "fileName": "Odialer-v5.0.8.apk",
     "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v5.0.8.apk",
     "downloadProtocol": "HTTPS",
-    "fileSizeBytes": 20000,
+    "fileSizeBytes": 63910041,
     "fileSizeFormatted": "20,000 bytes"
   },
   "integrity": {
