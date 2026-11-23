@@ -1,31 +1,29 @@
+
 {
   "schemaVersion": 1,
-
   "app": {
     "name": "Odialer",
     "company": "RecreateTM",
     "tagline": "Reimagining the Digital Experience",
     "packageName": "com.oplus.dialer",
-    "latestVersionCode": 3,
-    "latestVersionName": "1.0.2",
+    "latestVersionCode": 17,
+    "latestVersionName": "1.0.0",
     "minimumSupportedVersion": 1,
     "category": "Communication",
     "platform": "Android",
     "architecture": "Native Android Application",
     "description": "Odialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, with refined interface design, smooth interactions, and improved usability."
   },
-
   "update": {
     "available": true,
     "mandatory": false,
-    "title": "Odialer 1.0.2",
-    "description": "Reduced lag when scrolling through Contacts or Recents, fixed Dark Mode settings, and improved application security.",
-    "apkUrl": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/releases/download/v1.0.2_build3/ColorOS17Dialer-v1.0.2-release.apk",
-    "apkSize": 17855562,
-    "sha256": "2495beb43ec0461834f9c503fb7df888cc1bc8abc5bb7121508dab1f748dc518",
+    "title": "Odialer 1.0.0",
+    "description": "Initial release of Odialer.",
+    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v1.0.0.apk",
+    "apkSize": 63926313,
+    "sha256": "1f4d8668683215e6509fc3d7ad262c90bf9e35d089b94d264000409132f847c2",
     "releaseNotesUrl": "releases/latest.json"
   },
-
   "security": {
     "securityUpdateAvailable": false,
     "securityInfoUrl": "security/security.json",
@@ -33,54 +31,39 @@
     "securityUpdatesEnabled": true,
     "securityChangelogUrl": "security/changelog.json"
   },
-
   "release": {
-    "versionName": "1.0.2",
-    "versionCode": 3,
-    "releaseName": "Odialer 1.0.2",
+    "versionName": "1.0.0",
+    "versionCode": 17,
+    "releaseName": "Odialer 1.0.0",
     "channel": "stable",
     "status": "published",
     "mandatory": false,
     "enabled": true,
-    "releaseDate": "2026-11-15",
+    "releaseDate": "2026-11-23",
     "whatsNew": [
       {
-        "category": "Performance",
-        "title": "Smoother Scrolling",
-        "description": "Reduced lag when scrolling through Contacts and Recents."
-      },
-      {
-        "category": "UI Fixes",
-        "title": "Dark Mode Settings Fixed",
-        "description": "Fixed the Dark Mode settings page. It now displays correctly."
-      },
-      {
-        "category": "Security",
-        "title": "Security Improvements",
-        "description": "Improved application security."
+        "category": "Release",
+        "title": "Odialer Initial Release",
+        "description": "First public release of Odialer."
       }
     ],
     "releaseNotes": [
-      "Reduced lag when scrolling through Contacts or Recents.",
-      "Fixed the Dark Mode settings page. It now looks correct.",
-      "Improved application security."
+      "Initial release of Odialer."
     ]
   },
-
   "distribution": {
     "type": "Direct APK Distribution",
     "format": "APK",
-    "fileName": "ColorOS17Dialer-v1.0.2-release.apk",
-    "downloadPath": "https://github.com/Bedwarspro10/C-os17-dialer-ota-update/releases/download/v1.0.2/ColorOS17Dialer-v1.0.2-release.apk",
+    "fileName": "Odialer-v1.0.0.apk",
+    "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v1.0.0.apk",
     "downloadProtocol": "HTTPS",
-    "fileSizeBytes": 17855562,
-    "fileSizeFormatted": "17.86 MB"
+    "fileSizeBytes": 63926313,
+    "fileSizeFormatted": "63.93 MB"
   },
-
   "integrity": {
     "enabled": true,
     "algorithm": "SHA-256",
-    "apkChecksum": "2495beb43ec0461834f9c503fb7df888cc1bc8abc5bb7121508dab1f748dc518",
+    "apkChecksum": "1f4d8668683215e6509fc3d7ad262c90bf9e35d089b94d264000409132f847c2",
     "verificationRequired": true,
     "verifyBeforeInstallation": true,
     "rejectOnChecksumMismatch": true
