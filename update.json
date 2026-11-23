@@ -1,4 +1,3 @@
-
 {
   "schemaVersion": 1,
   "app": {
@@ -6,23 +5,23 @@
     "company": "RecreateTM",
     "tagline": "Reimagining the Digital Experience",
     "packageName": "com.oplus.dialer",
-    "latestVersionCode": 17,
-    "latestVersionName": "1.0.5",
+    "latestVersionCode": 28,
+    "latestVersionName": "5.0.8",
     "minimumSupportedVersion": 1,
     "category": "Communication",
     "platform": "Android",
     "architecture": "Native Android Application",
-    "description": "Odialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, with refined interface design, smooth interactions, and improved usability."
+    "description": "Odialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, with a redesigned interface, refined interactions, and improved usability."
   },
   "update": {
     "available": true,
     "mandatory": false,
-    "title": "Odialer 1.0.0",
-    "description": "Initial release of Odialer.",
-    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v1.0.0.apk",
-    "apkSize": 63892633,
-    "sha256": "1f4d8668683215e6509fc3d7ad262c90bf9e35d089b94d264000409132f847c2",
-    "releaseNotesUrl": "releases/latest.json"
+    "title": "Odialer 5.0.8 \u2014 Major UI Redesign",
+    "description": "A major visual redesign bringing the interface much closer to the actual ColorOS Dialer experience, with refined layouts and visual details.",
+    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v5.0.8.apk",
+    "apkSize": 20000,
+    "sha256": "c707464f84195fc5a61fb344bf744b5106c6778eb48c285eaecade7bd7a4dd9a",
+    "releaseNotesUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/latest.json"
   },
   "security": {
     "securityUpdateAvailable": false,
@@ -32,9 +31,9 @@
     "securityChangelogUrl": "security/changelog.json"
   },
   "release": {
-    "versionName": "1.0.5",
-    "versionCode": 17,
-    "releaseName": "Odialer 1.0.0",
+    "versionName": "5.0.8",
+    "versionCode": 28,
+    "releaseName": "Odialer 5.0.8 \u2014 Major UI Redesign",
     "channel": "stable",
     "status": "published",
     "mandatory": false,
@@ -42,28 +41,35 @@
     "releaseDate": "2026-11-23",
     "whatsNew": [
       {
-        "category": "Release",
-        "title": "Odialer Initial Release",
-        "description": "First public release of Odialer."
+        "category": "UI Redesign",
+        "title": "Major interface redesign",
+        "description": "A substantially redesigned dialer interface with a visual style closely matching the ColorOS Dialer."
+      },
+      {
+        "category": "Visual Refinements",
+        "title": "Polished dialer experience",
+        "description": "Refined screen layouts, visual details, and interaction presentation."
       }
     ],
     "releaseNotes": [
-      "Initial release of Odialer."
+      "Major UI redesign.",
+      "Refined layouts and visual details.",
+      "Updated to version 5.0.8 (build 28)."
     ]
   },
   "distribution": {
     "type": "Direct APK Distribution",
     "format": "APK",
-    "fileName": "Odialer-v1.0.0.apk",
-    "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v1.0.0.apk",
+    "fileName": "Odialer-v5.0.8.apk",
+    "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v5.0.8.apk",
     "downloadProtocol": "HTTPS",
-    "fileSizeBytes": 63892633,
-    "fileSizeFormatted": "63.93 MB"
+    "fileSizeBytes": 20000,
+    "fileSizeFormatted": "20,000 bytes"
   },
   "integrity": {
     "enabled": true,
     "algorithm": "SHA-256",
-    "apkChecksum": "1f4d8668683215e6509fc3d7ad262c90bf9e35d089b94d264000409132f847c2",
+    "apkChecksum": "c707464f84195fc5a61fb344bf744b5106c6778eb48c285eaecade7bd7a4dd9a",
     "verificationRequired": true,
     "verifyBeforeInstallation": true,
     "rejectOnChecksumMismatch": true
