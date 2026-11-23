@@ -7,7 +7,7 @@
     "tagline": "Reimagining the Digital Experience",
     "packageName": "com.oplus.dialer",
     "latestVersionCode": 17,
-    "latestVersionName": "1.0.0",
+    "latestVersionName": "1.0.5",
     "minimumSupportedVersion": 1,
     "category": "Communication",
     "platform": "Android",
@@ -32,7 +32,7 @@
     "securityChangelogUrl": "security/changelog.json"
   },
   "release": {
-    "versionName": "1.0.0",
+    "versionName": "1.0.5",
     "versionCode": 17,
     "releaseName": "Odialer 1.0.0",
     "channel": "stable",
