@@ -20,7 +20,7 @@
     "title": "Odialer 1.0.0",
     "description": "Initial release of Odialer.",
     "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v1.0.0.apk",
-    "apkSize": 63926313,
+    "apkSize": 63892633,
     "sha256": "1f4d8668683215e6509fc3d7ad262c90bf9e35d089b94d264000409132f847c2",
     "releaseNotesUrl": "releases/latest.json"
   },
@@ -57,7 +57,7 @@
     "fileName": "Odialer-v1.0.0.apk",
     "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v1.0.0.apk",
     "downloadProtocol": "HTTPS",
-    "fileSizeBytes": 63926313,
+    "fileSizeBytes": 63892633,
     "fileSizeFormatted": "63.93 MB"
   },
   "integrity": {
