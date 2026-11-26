@@ -12,13 +12,13 @@
     "category": "Communication",
     "platform": "Android",
     "architecture": "Native Android Application",
-    "description": "ODialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, featuring a redesigned interface, a new application logo, global animations, refined interactions, and improved usability."
+    "description": "ODialer is a RecreateTM project bringing the ColorOS 17 Dialer experience to Android through a refined interface, fluid animations, elegant interactions, and thoughtful design."
   },
   "update": {
     "available": true,
     "mandatory": false,
-    "title": "ODialer 5.0.8 — Branding & Animation Update",
-    "description": "Introducing the new ODialer identity, a redesigned application logo, and new global animations throughout the app, alongside visual refinements.",
+    "title": "ODialer 5.0.8 — A Fresh New Experience",
+    "description": "✨ A new identity. 🎬 Beautiful global animations. 🎨 A more polished experience. Discover the latest evolution of ODialer!",
     "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
     "apkSize": 83984806,
     "sha256": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887",
@@ -34,7 +34,7 @@
   "release": {
     "versionName": "5.0.8",
     "versionCode": 29,
-    "releaseName": "ODialer 5.0.8 — Branding & Animation Update",
+    "releaseName": "ODialer 5.0.8 — A Fresh New Experience",
     "channel": "stable",
     "status": "published",
     "mandatory": false,
@@ -42,26 +42,27 @@
     "releaseDate": "2026-11-26",
     "whatsNew": [
       {
-        "category": "Branding",
-        "title": "Introducing the new ODialer identity",
-        "description": "The application has been renamed to ODialer, with a new application logo."
+        "category": "✨ Branding",
+        "title": "Meet the new ODialer",
+        "description": "A fresh identity, a redesigned application logo, and a cleaner brand experience."
       },
       {
-        "category": "Animations",
-        "title": "New global animations",
-        "description": "New global animations have been introduced throughout the application for a more refined and consistent experience."
+        "category": "🎬 Animations",
+        "title": "A more fluid experience",
+        "description": "Enjoy new global animations and smoother visual transitions throughout the app."
       },
       {
-        "category": "Visual Refinements",
-        "title": "Polished dialer experience",
-        "description": "Continued refinement of the interface and visual presentation."
+        "category": "🎨 Refinements",
+        "title": "Every detail matters",
+        "description": "Polished interface elements and refined interactions for a more consistent dialer experience."
       }
     ],
     "releaseNotes": [
-      "Introduced the new ODialer application logo.",
-      "Renamed the application to ODialer.",
-      "Added new global animations throughout the app.",
-      "Version 5.0.8 (build 29)."
+      "✨ Introducing the new ODialer identity and application logo.",
+      "🎬 New global animations throughout the application.",
+      "⚡ Smoother transitions and refined interactions.",
+      "🎨 Additional interface and visual improvements.",
+      "📦 Version 5.0.8 · Build 29."
     ]
   },
   "distribution": {
