@@ -12,12 +12,12 @@
     "category": "Communication",
     "platform": "Android",
     "architecture": "Native Android Application",
-    "description": "ODialer brings the ColorOS 17 Dialer experience to Android with a refined interface, elegant animations, and carefully designed interactions."
+    "description": "ODialer brings the ColorOS 17 Dialer experience to Android with a redesigned interface, refined animations, and smooth interactions."
   },
   "update": {
     "available": true,
     "mandatory": false,
-    "title": "ODialer 5.0.8 — A Refined Experience",
+    "title": "ODialer 5.0.8",
     "description": "ODialer 5.0.8 introduces a refreshed application identity featuring the new ODialer logo from ColorOS 17. The interface now incorporates icons from ColorOS 17, creating a more consistent and familiar visual experience throughout the application. This release also introduces a new startup animation that welcomes users when opening the app, making the launch experience more dynamic and polished. Alongside these changes, new global animations, smoother transitions, and refined interface details bring a more cohesive feel to the dialer. Every detail has been carefully refined to deliver a more polished experience. Reimagining the Digital Experience with RecreateTM.",
     "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
     "apkSize": 83984806,
@@ -33,7 +33,7 @@
   "release": {
     "versionName": "5.0.8",
     "versionCode": 29,
-    "releaseName": "ODialer 5.0.8 — A Refined Experience",
+    "releaseName": "ODialer 5.0.8",
     "channel": "stable",
     "status": "published",
     "mandatory": false,
