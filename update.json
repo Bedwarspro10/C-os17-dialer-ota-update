@@ -12,17 +12,16 @@
     "category": "Communication",
     "platform": "Android",
     "architecture": "Native Android Application",
-    "description": "ODialer is a RecreateTM project bringing the ColorOS 17 Dialer experience to Android through a refined interface, fluid animations, elegant interactions, and thoughtful design."
+    "description": "ODialer brings the ColorOS 17 Dialer experience to Android with a redesigned interface, refined animations, and smooth interactions."
   },
   "update": {
     "available": true,
     "mandatory": false,
-    "title": "ODialer 5.0.8 — A Fresh New Experience",
-    "description": "✨ A new identity. 🎬 Beautiful global animations. 🎨 A more polished experience. Discover the latest evolution of ODialer!",
+    "title": "ODialer 5.0.8",
+    "description": "A fresh new identity for ODialer, featuring a redesigned application logo, new global animations, and visual refinements.",
     "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
     "apkSize": 83984806,
-    "sha256": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887",
-    "releaseNotesUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/latest.json"
+    "sha256": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887"
   },
   "security": {
     "securityUpdateAvailable": false,
@@ -34,36 +33,12 @@
   "release": {
     "versionName": "5.0.8",
     "versionCode": 29,
-    "releaseName": "ODialer 5.0.8 — A Fresh New Experience",
+    "releaseName": "ODialer 5.0.8",
     "channel": "stable",
     "status": "published",
     "mandatory": false,
     "enabled": true,
-    "releaseDate": "2026-11-26",
-    "whatsNew": [
-      {
-        "category": "✨ Branding",
-        "title": "Meet the new ODialer",
-        "description": "A fresh identity, a redesigned application logo, and a cleaner brand experience."
-      },
-      {
-        "category": "🎬 Animations",
-        "title": "A more fluid experience",
-        "description": "Enjoy new global animations and smoother visual transitions throughout the app."
-      },
-      {
-        "category": "🎨 Refinements",
-        "title": "Every detail matters",
-        "description": "Polished interface elements and refined interactions for a more consistent dialer experience."
-      }
-    ],
-    "releaseNotes": [
-      "✨ Introducing the new ODialer identity and application logo.",
-      "🎬 New global animations throughout the application.",
-      "⚡ Smoother transitions and refined interactions.",
-      "🎨 Additional interface and visual improvements.",
-      "📦 Version 5.0.8 · Build 29."
-    ]
+    "releaseDate": "2026-11-26"
   },
   "distribution": {
     "type": "Direct APK Distribution",
