@@ -1,26 +1,27 @@
+
 {
   "schemaVersion": 1,
   "app": {
-    "name": "Odialer",
+    "name": "ODialer",
     "company": "RecreateTM",
     "tagline": "Reimagining the Digital Experience",
     "packageName": "com.oplus.dialer",
-    "latestVersionCode": 28,
+    "latestVersionCode": 29,
     "latestVersionName": "5.0.8",
     "minimumSupportedVersion": 1,
     "category": "Communication",
     "platform": "Android",
     "architecture": "Native Android Application",
-    "description": "Odialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, with a redesigned interface, refined interactions, and improved usability."
+    "description": "ODialer is a RecreateTM project focused on bringing the ColorOS 17 Dialer experience to Android, featuring a redesigned interface, a new application logo, global animations, refined interactions, and improved usability."
   },
   "update": {
     "available": true,
     "mandatory": false,
-    "title": "Odialer 5.0.8 \u2014 Major UI Redesign",
-    "description": "A major visual redesign bringing the interface much closer to the actual ColorOS Dialer experience, with refined layouts and visual details.",
-    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v5.0.8.apk",
-    "apkSize": 63910041,
-    "sha256": "c707464f84195fc5a61fb344bf744b5106c6778eb48c285eaecade7bd7a4dd9a",
+    "title": "ODialer 5.0.8 — Branding & Animation Update",
+    "description": "Introducing the new ODialer identity, a redesigned application logo, and new global animations throughout the app, alongside visual refinements.",
+    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/ODialer.apk",
+    "apkSize": 0,
+    "sha256": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887",
     "releaseNotesUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/latest.json"
   },
   "security": {
@@ -32,44 +33,50 @@
   },
   "release": {
     "versionName": "5.0.8",
-    "versionCode": 28,
-    "releaseName": "Odialer 5.0.8 \u2014 Major UI Redesign",
+    "versionCode": 29,
+    "releaseName": "ODialer 5.0.8 — Branding & Animation Update",
     "channel": "stable",
     "status": "published",
     "mandatory": false,
     "enabled": true,
-    "releaseDate": "2026-11-23",
+    "releaseDate": "2026-11-26",
     "whatsNew": [
       {
-        "category": "UI Redesign",
-        "title": "Major interface redesign",
-        "description": "A substantially redesigned dialer interface with a visual style closely matching the ColorOS Dialer."
+        "category": "Branding",
+        "title": "Introducing the new ODialer identity",
+        "description": "The application has been renamed to ODialer, with a new application logo."
+      },
+      {
+        "category": "Animations",
+        "title": "New global animations",
+        "description": "New global animations have been introduced throughout the application for a more refined and consistent experience."
       },
       {
         "category": "Visual Refinements",
         "title": "Polished dialer experience",
-        "description": "Refined screen layouts, visual details, and interaction presentation."
+        "description": "Continued refinement of the interface and visual presentation."
       }
     ],
     "releaseNotes": [
-      "Major UI redesign.",
-      "Refined layouts and visual details.",
-      "Updated to version 5.0.8 (build 28)."
+      "Introduced the new ODialer application logo.",
+      "Renamed the application to ODialer.",
+      "Added new global animations throughout the app.",
+      "Version 5.0.8 (build 29)."
     ]
   },
   "distribution": {
     "type": "Direct APK Distribution",
     "format": "APK",
-    "fileName": "Odialer-v5.0.8.apk",
-    "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/Odialer-v5.0.8.apk",
+    "fileName": "ODialer-v5.0.8.apk",
+    "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
     "downloadProtocol": "HTTPS",
-    "fileSizeBytes": 63910041,
-    "fileSizeFormatted": "63.91 MB"
+    "fileSizeBytes": 0,
+    "fileSizeFormatted": "Pending exact APK size"
   },
   "integrity": {
     "enabled": true,
     "algorithm": "SHA-256",
-    "apkChecksum": "c707464f84195fc5a61fb344bf744b5106c6778eb48c285eaecade7bd7a4dd9a",
+    "apkChecksum": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887",
     "verificationRequired": true,
     "verifyBeforeInstallation": true,
     "rejectOnChecksumMismatch": true
