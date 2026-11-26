@@ -18,7 +18,9 @@
     "available": true,
     "mandatory": false,
     "title": "ODialer 5.0.8",
-    "description": "A fresh new identity for ODialer, featuring a redesigned application logo, new global animations, and visual refinements.",
+    "description": 
+"ODialer 5.0.8 introduces a refreshed application identity featuring the new ODialer logo from ColorOS 17.\n\nThe interface now incorporates icons from ColorOS 17, creating a more consistent and familiar visual experience throughout the application.\n\nThis release also introduces a new startup animation that welcomes users when opening the app, making the launch experience more dynamic and polished.\n\nAlongside these changes, new global animations, smoother transitions, and refined interface details bring a more cohesive feel to the dialer.\n\nEvery detail has been carefully refined to deliver a more polished experience.\n\nReimagining the Digital Experience with RecreateTM."
+    ,
     "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
     "apkSize": 83984806,
     "sha256": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887"
