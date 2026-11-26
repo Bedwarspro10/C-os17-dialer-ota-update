@@ -19,8 +19,8 @@
     "mandatory": false,
     "title": "ODialer 5.0.8 — Branding & Animation Update",
     "description": "Introducing the new ODialer identity, a redesigned application logo, and new global animations throughout the app, alongside visual refinements.",
-    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/ODialer.apk",
-    "apkSize": 0,
+    "apkUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
+    "apkSize": 83984806,
     "sha256": "cb9e9a58e3ccd66bdc79360e1423cdee34781ee6b57a9cf2cf76eeb37400e887",
     "releaseNotesUrl": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/latest.json"
   },
@@ -70,8 +70,8 @@
     "fileName": "ODialer-v5.0.8.apk",
     "downloadPath": "https://raw.githubusercontent.com/Bedwarspro10/C-os17-dialer-ota-update/main/releases/ODialer-v5.0.8.apk",
     "downloadProtocol": "HTTPS",
-    "fileSizeBytes": 0,
-    "fileSizeFormatted": "Pending exact APK size"
+    "fileSizeBytes": 83984806,
+    "fileSizeFormatted": "83.98 MB"
   },
   "integrity": {
     "enabled": true,
